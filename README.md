@@ -5,7 +5,8 @@ use selenium to make web browser to do the web test  automaticly
 0.Ensure you have used selenium 
 -----
 If you have not imported selenium yet, open your ide, for example, mine is pycharm.
-write down this line: from selenium import webdriver
+write down this line: 
+    from selenium import webdriver
 
 1.Download chrome-driver
 -----
@@ -26,4 +27,4 @@ Here  you  go!
 In the two of the files which I upload, one of them is based on Chrome, and another one is based on Firefox.
 My Chrome version is 86.0.4240.193.
 My Firefox version is 83.0 (64).
-I hope it can help you:)
+I hope it can be helpful:)
