@@ -6,7 +6,9 @@ use selenium to make web browser to do the web test  automaticly
 -----
 If you have not imported selenium yet, open your ide, for example, mine is pycharm.
 write down this line: 
-    from selenium import webdriver
+```
+from selenium import webdriver
+```
 
 1.Download chrome-driver
 -----
@@ -20,8 +22,10 @@ and then put the .exe into the Script directory.
 
 3.Open your ide and get the chrome driver
 ----
-The code is  driver = webdriver.Chrome()
-
+The code is  
+```
+driver = webdriver.Chrome()
+```
 Here  you  go!
 ==========
 In the two of the files which I upload, one of them is based on Chrome, and another one is based on Firefox.
