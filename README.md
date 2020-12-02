@@ -1,6 +1,5 @@
 # python-selenium-chrome-firefox
 use selenium to make web browser to do the web test  automaticly
-
 =========
 
 0.Ensure you have used selenium 
