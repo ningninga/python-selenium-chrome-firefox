@@ -2,8 +2,8 @@
 # -*- encoding: utf-8 -*-
 # Created on 2020/12/2 10:47
 # Project: 
-# @Author: jingjianing
-# @Email : xiluo@yscredit.com
+# @Author: ningninga
+# @Email : 
 
 
 import time
