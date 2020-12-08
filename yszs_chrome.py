@@ -11,7 +11,7 @@ import time
 from selenium import webdriver
 
 driver = webdriver.Chrome()
-driver.get("http://101.200.166.86:8000/ysb_toolkit/toolkit_index")
+driver.get("")
 time.sleep(2)
 driver.find_element_by_id("username").send_keys("")
 driver.find_element_by_id("password").send_keys("")
